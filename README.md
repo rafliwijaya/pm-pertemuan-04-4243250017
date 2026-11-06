@@ -22,7 +22,7 @@ Kedua, polimorfisme diterapnkan melalui relasi pewarisan kelas abstrak kendaraan
 Ketiga, asynchronous programming diterapkan pada method masuk() dan keluar() menggunakan kata kunci async dan await. Simulasi jeda buka-tutup palang otomatis direpresentasikan lewat Future.delayed(). Selain itu tiap peristiwa masuk atau keluar ditampilkan secara real time tanpa memblokir thread utama menggunakan StreamController.broadcast(), yang kemudian ditangkap oleh listener monitor pos jaga.
 
 ### Informasi Tambahan
-untuk pratikum ada pada folder lib/
+untuk pratikum ada pada folder lib/ dan bin/
 
 E. PERNYATAAN PENGGUNAAN AI
 Saya menggunakan ai untuk membuat/generate diagram sederhananya, kemudian membuat template dasar dari spesifikasi yang harus ada, kemudian barulah saya memodifikasinya dan menyatukannya. Saya juga menggunakan ai untuk menjelaskan maksud dari tantangan pratikum oop library sebelumnya, ketika masih tidak paham, saya menyuruh ai membut kodenya lalu menganalisis apa maksud dari tantangan tersebut kemudian mengetik ulang kode yang diberikan ai. 
